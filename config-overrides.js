@@ -1,3 +1,4 @@
+/* This file contains configurations to overide ant-design variables. A list of ant-design default variables can be found here: https://github.com/ant-design/ant-design/blob/master/components/style/themes/default.less */
 const { override, fixBabelImports, addLessLoader } = require("customize-cra");
 
 module.exports = override(
