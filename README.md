@@ -1,5 +1,13 @@
-# React-Ant-Design-Boilerplate
-This project is a simple boilerplate for using antd with create-react-app. It lets you override create-react-app webpack configs without ejecting. https://ant.design/docs/react/use-with-create-react-app
+# React-Antd-Project-Quickstart-Boilerplate
+
+This project is a simple boilerplate for getting up and running on a react application. it has the following technologies preconfigured:
+
+- Redux: For global state management.
+- Ant Design : As the default design system.
+- Axios-mock-adapter: Helps to easily mock request from the backend.
+- Husky, lint-staged: Performs pre-commit checks on files.
+- Prettier: For code formatting.
+- Redux logger: For logging redux actions in the console.
 
 ## Setting up the project
 
